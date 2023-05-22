@@ -1,0 +1,3 @@
+[submodule "external/oniguruma"]
+	path = external/oniguruma
+	url = git@github.com:kirikiroid3/oniguruma.git
