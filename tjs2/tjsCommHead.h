@@ -39,7 +39,7 @@
 #pragma comment (lib, "imm32.lib")
 
 #pragma comment (lib, "libpng16.lib")
-#pragma comment (lib, "onig_s.lib")
+#pragma comment (lib, "onig.lib")
 #pragma comment (lib, "freetype.lib")
 #pragma comment (lib, "jpeg.lib")
 #pragma comment (lib, "jpegxr.lib")
