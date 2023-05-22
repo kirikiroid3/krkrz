@@ -39,7 +39,7 @@ Install libraries for your project
 - bzip2 `.\vcpkg.exe install bzip2 bzip2:x64-windows`
 - libjpeg-turbo `.\vcpkg.exe install libjpeg-turbo libjpeg-turbo:x64-windows`
 - jxrlib `.\vcpkg.exe install jxrlib jxrlib:x64-windows`
-- oniguruma `.\vcpkg.exe install oniguruma oniguruma:x64-windows`
+<!-- - oniguruma `.\vcpkg.exe install oniguruma oniguruma:x64-windows` -->
 
 ### 3. integrate the vcpkg into visual studio
 
